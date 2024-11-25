@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(214, 240, 231);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 1.6;
+    
+}
+
+.cabecalho{
+    width: 80%;
+    margin: 0 auto;
+}
+
+header{
+    background-color: rgb(69, 116, 100);
+    color: white;
+    padding: 10px 0;
+}
+
+img{
+    width: 20%;
+}
